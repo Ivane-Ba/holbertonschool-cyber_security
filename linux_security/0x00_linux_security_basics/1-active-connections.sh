@@ -1,2 +1,2 @@
 #!/bin/bash
-ss -tunaep
+sudo ss -tunaep
